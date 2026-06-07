@@ -93,14 +93,6 @@ androidx.navigation:navigation-compose
 // ViewModel
 androidx.lifecycle:lifecycle-viewmodel-compose
 
-// Room (próxima iteración)
-androidx.room:room-runtime
-androidx.room:room-ktx
-ksp(androidx.room:room-compiler)
-
-// DataStore (próxima iteración)
-androidx.datastore:datastore-preferences
-
 // Coroutines
 org.jetbrains.kotlinx:kotlinx-coroutines-android
 
