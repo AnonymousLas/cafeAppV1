@@ -95,7 +95,6 @@ fun RegistroScreen(
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
 
-            // ── ENCABEZADO ────────────────────────────────────────
             Text(
                 text = "Únete a nosotros",
                 fontSize = 14.sp,
@@ -178,7 +177,6 @@ fun RegistroScreen(
                     colors     = campoColores()
                 )
             }
-
             Spacer(modifier = Modifier.height(8.dp))
 
             // ── CHECKBOX TÉRMINOS ─────────────────────────────────
